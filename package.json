@@ -1,0 +1,29 @@
+{
+  "mantainers": [
+    {
+      "name": "Shimon Doodkin",
+      "email": "helpmepro1@gmail.com",
+      "homepage": "doodkin.com"
+    }
+  ],
+  "author": "Neil Fraser <root@neil.fraser.name> (http://neil.fraser.name/)",
+  "name": "googlediff",
+  "description": "using jsinc and a simple index file. drop in the original code form google-diff-match-patch/ svn, thus easy to update.",
+  "version": "0.0.90",
+  "homepage": "http://code.google.com/p/google-diff-match-patch/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shimondoodkin/googlediff.git"
+  },
+  "engines": {
+    "node": ">=0.2.5"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "licenses": [
+    {
+      "type": "Apache",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ]
+}
