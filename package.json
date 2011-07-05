@@ -3,7 +3,7 @@
     {
       "name": "Shimon Doodkin",
       "email": "helpmepro1@gmail.com",
-      "homepage": "doodkin.com"
+      "homepage": "http://doodkin.com"
     }
   ],
   "author": "Neil Fraser <root@neil.fraser.name> (http://neil.fraser.name/)",
@@ -18,7 +18,9 @@
   "engines": {
     "node": ">=0.2.5"
   },
-  "dependencies": {},
+  "dependencies": {
+    "jsinc": "0.1.x"
+  },
   "devDependencies": {},
   "licenses": [
     {
