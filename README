@@ -14,6 +14,9 @@ see demos to learn how it works.
 
 by Shimon Dookdin
 
+may be intalled with npm:
+
+    npm install googlediff
 
 demo:
     var diff_match_patch=require('googlediff');
