@@ -8,6 +8,8 @@ to update just copy in here the 'demos' and 'javascript' folders
 
 this module is also awsome because you can use exactrly the same code on the serverside and on the client side.
 
+this module is built using https://github.com/shimondoodkin/jsinc
+
 the test tests just that the modue is usable.
 
 see demos to learn how it works.
