@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/shimondoodkin/googlediff.png)](http://travis-ci.org/shimondoodkin/googlediff)
 node module for:
 http://code.google.com/p/google-diff-match-patch/ by Neil Fraser and contributors.
 
