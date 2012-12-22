@@ -15,6 +15,9 @@
     "type": "git",
     "url": "git://github.com/shimondoodkin/googlediff.git"
   },
+  "scripts": {
+    "test": "node test.js"
+  },
   "engines": {
     "node": ">=0.2.5"
   },
