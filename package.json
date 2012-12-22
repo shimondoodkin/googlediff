@@ -9,7 +9,7 @@
   "author": "Neil Fraser <root@neil.fraser.name> (http://neil.fraser.name/)",
   "name": "googlediff",
   "description": "using jsinc and a simple index file. drop in the original code form google-diff-match-patch/ svn, thus easy to update.",
-  "version": "0.0.90",
+  "version": "0.1.0",
   "homepage": "http://code.google.com/p/google-diff-match-patch/",
   "repository": {
     "type": "git",
