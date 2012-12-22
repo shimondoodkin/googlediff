@@ -19,7 +19,6 @@
     "node": ">=0.2.5"
   },
   "dependencies": {
-    "jsinc": "0.1.x"
   },
   "devDependencies": {},
   "licenses": [
