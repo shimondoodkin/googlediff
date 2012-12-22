@@ -1,5 +1,5 @@
 {
-  "mantainers": [
+  "contributors": [
     {
       "name": "Shimon Doodkin",
       "email": "helpmepro1@gmail.com",
@@ -8,7 +8,7 @@
   ],
   "author": "Neil Fraser <root@neil.fraser.name> (http://neil.fraser.name/)",
   "name": "googlediff",
-  "description": "using jsinc and a simple index file. drop in the original code form google-diff-match-patch/ svn, thus easy to update.",
+  "description": "Simple packaging of Neil Fraser's original google-diff-match-patch",
   "version": "0.1.0",
   "homepage": "http://code.google.com/p/google-diff-match-patch/",
   "repository": {
@@ -19,7 +19,7 @@
     "test": "node test.js"
   },
   "engines": {
-    "node": ">=0.2.5"
+    "node": ">=0.8.0"
   },
   "dependencies": {
   },
