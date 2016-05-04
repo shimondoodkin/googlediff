@@ -23,6 +23,11 @@
   "scripts": {
     "test": "node test.js"
   },
+  "files": [
+    "index.js",
+    "javascript/diff_match_patch.js",
+    "javascript/diff_match_patch_uncompressed.js"
+  ],
   "engines": {
     "node": ">=0.8.0"
   },
